@@ -3,8 +3,7 @@
 
 # # **Unstructured Data Analytics** 
 # ## Course Project
-# ### *Aiden McFadden, Ariel Simmons*
-# ### *James Caggiano, Matthew Cabrera, and Tom Song*
+# ### *Ariel Simmons*
 # ###Code Link: https://colab.research.google.com/drive/1VqUXNsczqo0Y4Ke_X2OsTPUC0UnQujcz?usp=sharing
 
 # First, we have to load in all of the packages and data that we need in order to do the exploration
